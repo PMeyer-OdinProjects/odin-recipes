@@ -1,6 +1,0 @@
-Basic Recipe Site
-
-- odin-recipes
--- index.html -> list of recipe pages
--- recipes
---- (food).html -> actual recipe using unordered lists for ingredients and ordered lists for steps
